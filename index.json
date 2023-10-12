@@ -2322,6 +2322,26 @@
                 "online"
             ],
             "added": "2023-10-02"
+        },
+        {
+            "name" : "NSFW Blurrer-NSFWJS",
+            "url": "https://github.com/aria1th/sd-webui-nsfw-filter.git",
+            "description": "Blurs NSFW images using NSFWJS, based on onnxmodel ",
+            "tags": [
+                "script",
+                "manipulations"
+            ],
+            "added": "2023-10-12"
+        },
+        {
+            "name" : "auxiliary API",
+            "url" : "https://github.com/aria1th/webui-model-uploader.git",
+            "description": "Adds API routes for uploading, removing, syncing models",
+            "tags": [
+                "script",
+                "online"
+            ],
+            "added": "2023-10-12"
         }
     ]
 }
